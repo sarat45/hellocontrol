@@ -1,0 +1,5 @@
+package com.vogella.example.demo;
+
+public class HelloWorldController {
+
+}

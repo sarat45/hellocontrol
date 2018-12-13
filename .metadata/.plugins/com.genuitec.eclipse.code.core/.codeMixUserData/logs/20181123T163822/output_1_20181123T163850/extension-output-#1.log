@@ -1,0 +1,4 @@
+[Info  - 5:25:42 PM] Using tsserver from: c:\Users\User\.codemix\engine\resources\app\extensions\node_modules\typescript\lib
+[Info  - 5:25:47 PM] Forking TSServer
+PATH: C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Program Files\Apache Software Foundation\Tomcat 7.0\lib;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\User\AppData\Roaming\npm;C:\Users\User\Desktop\sts-bundle\sts-3.9.6.RELEASE; 
+[Info  - 5:25:47 PM] Started TSServer

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Helloworldcontroller.java&apos; to &apos;Helloworld/src/main/java/com.Helloworld.controller&apos;&#x0D;&#x0A;- Original project: &apos;Helloworld&apos;&#x0D;&#x0A;- Destination element: &apos;Helloworld/src/main/java/com.Helloworld.controller&apos;&#x0D;&#x0A;- Original element: &apos;com.bitemii.service.Helloworld.Helloworldcontroller.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java&lt;com.Helloworld.controller" element1="/src\/main\/java&lt;com.bitemii.service.Helloworld{Helloworldcontroller.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1544702147724" units="1" version="1.0"/>
+</session>

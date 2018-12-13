@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "path": "C:\\Users\\User\\Documents\\workspace-sts-3.9.6.RELEASE\\Servers"
+    },
+    {
+      "path": "C:\\Users\\User\\Desktop\\SpringBootMongoMLAB-master"
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\demo"
+    }
+  ],
+  "settings": {
+    "javascript.referencesCodeLens.enabled": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.enabled": true
+  }
+}
